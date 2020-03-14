@@ -21,24 +21,18 @@
       "username": "UyCode4"
     }
   ],
-  "books":[{
-    "scince":[
+  "books":[
       {
         "id": 1,
         "name": " UyCode for Everyone"
-    }
-  ],
-    "fiction": [
+      },
       {
-        "id": 1,
+        "id": 2,
         "name": " UyCode2 for Everyone"
-      }
-    ],
-    "biography": [
+      },
       {
-        "id": 1,
+        "id": 3,
         "name": " UyCode3 for Everyone"
       }
     ]
-  }]
 }
