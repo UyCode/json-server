@@ -1,11 +1,24 @@
 {
-  "posts": [
+  "users":[
     {
-      "id": 1,
-      "title": "hello"
+      id: 1,
+      name: "ahmat",
+      user-name: "UyCode"
+    },
+    {
+      id: 2,
+      name: "ahmat",
+      user-name: "UyCode"
+    },
+    {
+      id: 3,
+      name: "ahmat",
+      user-name: "UyCode"
+    },
+    {
+      id: 4,
+      name: "ahmat",
+      user-name: "UyCode"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
